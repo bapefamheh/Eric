@@ -1,0 +1,122 @@
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\ShanuAngularProjectSchedule.dll.config
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\ShanuAngularProjectSchedule.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\ShanuAngularProjectSchedule.pdb
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Antlr3.Runtime.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\EntityFramework.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\EntityFramework.SqlServer.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Google.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Web.Infrastructure.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Newtonsoft.Json.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Owin.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Net.Http.Formatting.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Helpers.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Http.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Http.WebHost.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Mvc.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Optimization.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Razor.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Deployment.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.WebPages.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Razor.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\WebGrease.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Helpers.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Mvc.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Optimization.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Razor.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.WebPages.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Deployment.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Razor.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Antlr3.Runtime.pdb
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Newtonsoft.Json.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Net.Http.Formatting.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Http.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\System.Web.Http.WebHost.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\EntityFramework.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\EntityFramework.SqlServer.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Google.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\obj\Debug\ShanuAngularProjectSchedule.csprojResolveAssemblyReference.cache
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\obj\Debug\ShanuAngularProjectSchedule.dll
+D:\Shanu\VS2015\ShanuProjectScheduling\ShanuAngularProjectSchedule\ShanuAngularProjectSchedule\obj\Debug\ShanuAngularProjectSchedule.pdb
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\ShanuAngularProjectSchedule.dll.config
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\ShanuAngularProjectSchedule.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\ShanuAngularProjectSchedule.pdb
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Antlr3.Runtime.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\EntityFramework.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\EntityFramework.SqlServer.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Newtonsoft.Json.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Owin.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Net.Http.Formatting.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Helpers.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Http.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Http.WebHost.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Mvc.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Optimization.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Razor.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.WebPages.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Razor.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\WebGrease.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Helpers.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Mvc.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Optimization.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Razor.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.WebPages.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.WebPages.Razor.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Antlr3.Runtime.pdb
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Newtonsoft.Json.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Net.Http.Formatting.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Http.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\System.Web.Http.WebHost.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\EntityFramework.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\EntityFramework.SqlServer.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\obj\Debug\ShanuAngularProjectSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\obj\Debug\ShanuAngularProjectSchedule.dll
+C:\Users\Doctor\Source\Repos\Eric\Dynamic Project scheduling using MVC Angular JS\C#\ShanuAngularProjectSchedule\obj\Debug\ShanuAngularProjectSchedule.pdb
